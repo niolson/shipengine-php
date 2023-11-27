@@ -1,5 +1,5 @@
 {
-  "name": "shipengine/shipengine",
+  "name": "niolson/shipengine",
   "type": "library",
   "description": "PHP library for the ShipEngine API.",
   "keywords": [
